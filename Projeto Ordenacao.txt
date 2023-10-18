@@ -1,0 +1,9 @@
+Projeto para disciplina de Estrutura de Dados
+
+O projeto tem como objetivo a construção de um programa para ordenação de vetores.
+
+O programa deve conter:
+- 4 tipos de amostras: vetor com valores totalmente desordenados, vetor com valores ordenados de forma descrente, vetor com valores repetidos e vetor com valores quase ordenados.
+- 3 métodos de ordenação: bubblesort, insertionsort e selectionsort.
+- Contadores de atribuições e comparações para todos os métodos de ordenação.
+
